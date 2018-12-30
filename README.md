@@ -1,4 +1,4 @@
-# Lifegame
+# LifeGame
 
 これと言って特徴のないライフゲームです．
 
